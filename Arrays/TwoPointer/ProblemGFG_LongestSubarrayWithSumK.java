@@ -2,6 +2,7 @@ package DSA.Arrays.TwoPointer;
 
 import java.util.HashMap;
 
+// Problem GFG: https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1
 public class ProblemGFG_LongestSubarrayWithSumK {
 
     public static void main(String[] args) {

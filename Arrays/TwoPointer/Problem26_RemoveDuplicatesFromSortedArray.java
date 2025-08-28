@@ -1,7 +1,7 @@
 package DSA.Arrays.TwoPointer;
 
 import java.util.Arrays;
-
+//Problem26 = https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 public class Problem26_RemoveDuplicatesFromSortedArray {
     public static void main(String[] args) {
         int[] nums1 = {0,0,1,1,1,2,2,3,3,4};
