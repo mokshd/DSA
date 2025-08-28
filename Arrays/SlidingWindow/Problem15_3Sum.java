@@ -1,8 +1,9 @@
-package DSA.Arrays;
+package DSA.Arrays.SlidingWindow;
 
 import java.util.*;
 
-// Problem 15: 3Sum
+// Problem 15: https://leetcode.com/problems/3sum/description/
+
 public class Problem15_3Sum {
 
     // ---------------- Brute Force ----------------
