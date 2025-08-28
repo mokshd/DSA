@@ -1,4 +1,4 @@
-package DSA.Arrays.SlidingWindow;
+package DSA.Arrays.TwoPointer;
 
 // Problem 121: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
