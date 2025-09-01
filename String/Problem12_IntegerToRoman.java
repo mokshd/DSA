@@ -1,4 +1,4 @@
-package DSA.Strings;
+package DSA.String;
 
 public class Problem12_IntegerToRoman {
 
