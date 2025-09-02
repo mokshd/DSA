@@ -1,4 +1,4 @@
-package DSA.Arrays.TwoPointer;
+package DSA.PrefixSum;
 
 import java.util.HashMap;
 
