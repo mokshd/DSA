@@ -19,7 +19,7 @@ public class Problem56_MergeIntervals {
     // Try all pair combinations and merge intervals
     // Time: O(n^2), Space: O(1)
     public static List<int[]> bruteForce(int[][] intervals) {
-        List<int[]> result = new ArrayList<>();
+        List<int[]> result = new ArrayList<>(Arrays.asList(intervals));
         for (int i = 0; i < intervals.length; i++) {
             boolean merged = false;
             for (int j = 0; j < result.size(); j++) {
